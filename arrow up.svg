@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#009bca"/>
+      <stop offset="1" stop-color="#210092"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c0f0"/>
+      <stop offset="1" stop-color="#1e4bff"/>
+    </linearGradient>
+    <clipPath id="clip-arrow_up">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="arrow_up" data-name="arrow up" clip-path="url(#clip-arrow_up)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0H83V530L0,504.213Z" transform="translate(919 277)" fill="url(#linear-gradient)"/>
+    <path id="Path_3" data-name="Path 3" d="M-32.755,0H20.632L-30.035,306.989-103.8,369.333Z" transform="matrix(0.087, 0.996, -0.996, 0.087, 990.488, 774.819)" fill="#210092"/>
+    <path id="Path_4" data-name="Path 4" d="M0,72.355l235.285-203.66L473.07,72.355V154.56L235.285,9.14,0,154.56Z" transform="translate(723.465 280.286)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
