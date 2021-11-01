@@ -37,6 +37,28 @@ body {
   animation-duration: 3s;
 }
 
+.fa-twitter:hover{
+  color: black;
+}
+.fa-facebook-f:hover{
+  color: black;
+}
+.fa-linkedin-in:hover{
+  color: black;
+}
+.fa-instagram:hover{
+  color: black;
+}
+.fa-youtube:hover{
+  color: black;
+}
+.fa-github:hover{
+  color: black;
+}
+.fa-codepen:hover{
+  color: black;
+}
+
 
 #page {
   position: relative;
